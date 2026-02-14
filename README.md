@@ -67,4 +67,20 @@ Based on the EDA above, here are the main takeaways:
 pip install -r requirements.txt
 jupyter notebook
 ```
-Open **`MSCS_632_Deliverable_1.ipynb`** to view the full analysis with plots.
+
+
+### Setup & Run (uv)
+``` bash
+uv venv
+
+# macOS/Linux
+source .venv/bin/activate
+# Windows (PowerShell)
+# .\.venv\Scripts\Activate.ps1
+
+uv pip install -r requirements.txt
+jupyter notebook
+
+```
+
+Open **`Deliverable_1.ipynb`** to view the full analysis with plots.
