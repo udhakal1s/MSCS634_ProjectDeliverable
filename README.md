@@ -39,14 +39,20 @@ This dataset is well-suited for the project because it exceeds the minimum datas
 - `education = "unknown"`: 1,857
 - `job = "unknown"`: 288
 
-### Key EDA Insights
-- **Class imbalance:**  
-  `no`: 39,922 (88.3%) vs `yes`: 5,289 (11.7%)
-- **Strong predictors / signals (observed in EDA):**
-  - `duration` is much larger for successful subscriptions *(but likely introduces data leakage if predicting “before the call”)*.
-  - `poutcome` (“outcome of previous marketing campaign”) has very different subscription rates across categories.
-- **Skew/outliers:** variables like `balance`, `duration`, and `campaign` are heavy-tailed → consider robust scaling or transformations in later modeling.
-- **Seasonality:** subscription rates vary by `month` → consider careful encoding (ordered or cyclical) later.
+### Key Insights
+
+Based on the EDA above, here are the main takeaways:
+
+1. **Class imbalance:** the positive class (subscription) is much smaller than the negative class → use stratified splits, class weights, and metrics like F1/ROC-AUC later.
+2. **Strong drivers of subscription:**
+   - **`duration`** is typically much higher for successful subscriptions.  
+      *However, duration is measured **after** the call ends, which can cause **data leakage** if the goal is “predict before calling”.*
+   - **`poutcome`** and previous-contact information are highly informative (when available), but many values are unknown.
+3. **Missingness-as-signal:** `"unknown"` values are common in some categorical columns (especially `poutcome` and `contact`). Missing indicators can help models learn patterns in “unknown-ness”.
+4. **Skew and outliers:** variables like `balance`, `duration`, `campaign`, and `previous` are heavy-tailed.  
+   → consider log/robust scaling or outlier capping for some models.
+5. **Seasonality effects:** `month` shows major differences in subscription rates across months → consider encoding month with an ordered category or cyclical transform.
+
 
 ### Challenges Encountered & How They Were Addressed
 - **No explicit missing values:** Instead, missingness is encoded as `"unknown"` in multiple fields.  
