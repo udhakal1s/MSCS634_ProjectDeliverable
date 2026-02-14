@@ -6,7 +6,7 @@
 - Sagar Bhetwal
 - Nirajan Acharya
 - Umesh Dhakal
-- Enjal Chauan
+- Enjal Chauhan
 
 ### Dataset Summary
 - **File:** `data/bank-full.csv`
