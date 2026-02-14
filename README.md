@@ -1,6 +1,13 @@
 # MSCS 634 – Project Deliverable 1  
 ## Data Collection, Cleaning, and Exploration (EDA)
 
+## Group Members:  
+- Suresh Ghimire
+- Sagar Bhetwal
+- Nirajan Acharya
+- Umesh Dhakal
+- Enjal Chauan
+
 ### Dataset Summary
 - **File:** `data/bank-full.csv`
 - **Rows / Columns:** 45,211 rows × 17 columns
