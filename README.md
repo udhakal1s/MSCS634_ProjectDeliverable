@@ -67,4 +67,4 @@ Based on the EDA above, here are the main takeaways:
 pip install -r requirements.txt
 jupyter notebook
 ```
-Open **`Deliverable_1.ipynb`** to view the full analysis with plots.
+Open **`MSCS_632_Deliverable_1.ipynb`** to view the full analysis with plots.
