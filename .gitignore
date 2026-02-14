@@ -1,0 +1,100 @@
+# --------------------------------------
+# Python cache / artifacts
+# --------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# --------------------------------------
+# Virtual environments (uv / venv / conda)
+# --------------------------------------
+.venv/
+venv/
+ENV/
+env/
+.conda/
+conda-env/
+
+# uv sometimes creates local caches (safe to ignore)
+.uv/
+uv-cache/
+.uv-cache/
+
+# --------------------------------------
+# Jupyter / notebooks
+# --------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# If you export notebooks to other formats locally
+*.nbconvert.ipynb
+
+# --------------------------------------
+# Data outputs (optional)
+# Keep raw/cleaned data out if it's large or sensitive.
+# If your instructor requires the CSV, remove these lines.
+# --------------------------------------
+data/tmp/
+data/cache/
+*.parquet
+*.pkl
+*.joblib
+
+# --------------------------------------
+# Generated images / outputs (optional)
+# If you want to keep screenshots/plots in Git, REMOVE these.
+# --------------------------------------
+# screenshots/
+# visualizations/
+# outputs/
+
+# --------------------------------------
+# Logs
+# --------------------------------------
+*.log
+logs/
+*.out
+
+# --------------------------------------
+# OS junk
+# --------------------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------------------
+# Editor/IDE (VS Code, JetBrains)
+# --------------------------------------
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# --------------------------------------
+# Secrets (never commit)
+# --------------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+
+# --------------------------------------
+# Not needed for repo
+# --------------------------------------
+*.zip
+*.tar.gz
