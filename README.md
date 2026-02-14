@@ -1,4 +1,4 @@
-# MSCS 634 – Project Deliverable 1  
+# MSCS 634 – Project Deliverable
 ## Data Collection, Cleaning, and Exploration (EDA)
 
 ## Group Members:  
