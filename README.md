@@ -19,6 +19,7 @@ MSCS634_PROJECTDELIVERABLE/
 ├── MSCS-634-Deliverable1/
 ├── MSCS-634-Deliverable2/
 └── MSCS-634-Deliverable3/
+└── MSCS-634-Deliverable4/
 ```
 ## Deliverables
 - [Deliverable 1: Data Collection, Cleaning, and Exploration](./MSCS-634-Deliverable1)
@@ -50,8 +51,43 @@ MSCS634_PROJECTDELIVERABLE/
   - At least one clustering model (example: K-Means, Hierarchical, DBSCAN) + visual explanation
   - Association rule mining (example: Apriori or FP-Growth) + real-world interpretation
 
----
+- **`MSCS-634-Deliverable4/` — **Final Insights, Recommendations, and Presentation**
+  - Consolidated summary of **Deliverable 1–3** (what was done + why it matters)
+  - Dataset recap: **what dataset**, **why chosen**, and **what problem it solves**
+  - Key insights from:
+    - preprocessing decisions (unknown handling, `pdays` meaning, encoding strategy)
+    - EDA highlights (imbalanced target, outliers/skew, strongest relationships)
+    - feature engineering (indicators, transformations, bins if used)
+  - Results recap (short + clear):
+    - Regression: best model + key metrics (**R², RMSE**) + 1-line interpretation
+    - Classification: best model + tuning summary + metrics (**Accuracy/F1 + ROC**) + what it implies
+    - Clustering: chosen `k` + silhouette/elbow reasoning + cluster meaning (2–3 lines)
+    - Association rules: top rules + **real-world interpretation** (not just support/confidence)
+  - Practical recommendations (actionable, business-style):
+    - what to do next based on regression/classification insights
+    - how to use clusters for segmentation
+    - how to use rules for targeting or messaging themes
+  - Ethical considerations:
+    - privacy risks (sensitive attributes, customer targeting)
+    - fairness/bias risk (groups impacted, imbalance)
+    - mitigation steps (metrics beyond accuracy, transparent pipeline, careful feature use)
+  - Visualizations included (placeholders with correct names):
+    - `[IMAGE: target_distribution.png]`
+    - `[IMAGE: correlation_heatmap.png]`
+    - `[IMAGE: outlier_boxplots.png]`
+    - `[IMAGE: model_performance_report.png]`
+    - `[IMAGE: confusion_matrix_linear_svm_tuned.png]`
+    - `[IMAGE: roc_curve_linear_svm_tuned.png]`
+    - `[IMAGE: kmeans_elbow_inertia.png]`
+    - `[IMAGE: kmeans_silhouette_scores.png]`
+    - `[IMAGE: kmeans_clusters_truncatedsvd_scatter.png]`
+    - `[IMAGE: top_rules_output.png]`
+  - Submission items:
+    - GitHub repo link: `[https://github.com/udhakal1s/MSCS634_ProjectDeliverable]`
+    - 5–7 minute presentation video link: `[]`
+    - Final notebook link(s): `[]`
 
+---
 ## Recommended Contents Inside Each Deliverable Folder
 
 Each deliverable folder typically includes:
