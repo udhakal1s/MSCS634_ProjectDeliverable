@@ -24,6 +24,7 @@ MSCS634_PROJECTDELIVERABLE/
 - [Deliverable 1: Data Collection, Cleaning, and Exploration](./MSCS-634-Deliverable1)
 - [Deliverable 2: Regression Modeling and Performance Evaluation](./MSCS-634-Deliverable2)
 - [Deliverable 3: Classification, Clustering, and Pattern Mining](./MSCS-634-Deliverable3)
+- [Deliverable 4: Final Insights, Recommendations, and Presentation](./MSCS-634-Deliverable4)
 
 
 ### What each folder contains (high level)
