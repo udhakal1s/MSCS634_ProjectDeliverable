@@ -84,8 +84,7 @@ MSCS634_PROJECTDELIVERABLE/
     - `[IMAGE: top_rules_output.png]`
   - Submission items:
     - GitHub repo link: `[https://github.com/udhakal1s/MSCS634_ProjectDeliverable]`
-    - 5–7 minute presentation video link: `[]`
-    - Final notebook link(s): `[]`
+    - 5–7 minute presentation video link: `[https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo]`
 
 ---
 ## Recommended Contents Inside Each Deliverable Folder
