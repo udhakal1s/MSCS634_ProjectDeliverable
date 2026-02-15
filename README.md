@@ -11,7 +11,7 @@ This repository contains my project work for **MSCS 634 – Advanced Big Data an
 Each deliverable is organized in its own folder (Deliverable 1, Deliverable 2, Deliverable 3).
 
  ### Presentation Link 
- - [Presentation Link](https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo)
+ - [https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo](https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo)
 ---
 
 ## Folder Structure
@@ -86,7 +86,7 @@ MSCS634_PROJECTDELIVERABLE/
     - `[IMAGE: top_rules_output.png]`
   - Submission items:
     - GitHub repo link: `[https://github.com/udhakal1s/MSCS634_ProjectDeliverable]`
-    - Presentation video link: `https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo`
+    - [Presentation Link](https://cumber-my.sharepoint.com/:v:/g/personal/sghimire38288_ucumberlands_edu/IQB1BVQMvYzYRpO1aTxZtL9_AWdTyp1k6KVN8aDbIXuOG1E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n0WSLo)
 
 ---
 ## Recommended Contents Inside Each Deliverable Folder
